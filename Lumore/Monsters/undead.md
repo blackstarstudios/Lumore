@@ -135,7 +135,7 @@ Chindi (Evil soul)
 ---
 
 ### Monster
-Start
+Anaye (Rememberance item possession spirit)
 
 ---
 
@@ -285,7 +285,6 @@ Start
 - Kodama (Wandering ghost)
 - Jiangshi (Sorceror ghost)
 - Nukekubi (Head ghost)
-- Anaye (Item possession spirit)
 - Stiff-Legged Bear (Giant bear ghoul)
 - Cu Sith Hellhound (Giant green skull ghoul wolf)
 - Cat-sìth (Death cat)

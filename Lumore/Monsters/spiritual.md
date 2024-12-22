@@ -4,15 +4,10 @@
 
 Start
 
-- Pixie (fairy like sprite)
-- Djinn (Genie)
-- Familiar (Magic animal spirit)
-- Kitsune (Fox spirit)
 - Phantom cat (Lionkin spirit)
 - Will-o'-the-wisp (Grave spirit)
 - Zduhać (Mountain spirit)
 - Shen (Holy mountain spirit)
-- 
 - Asteriae (Star garden spirit)
 
 ## Introduction
@@ -25,7 +20,7 @@ Start
 ---
 
 ### Monster
-Djinn
+Djinn (Genie)
 
 ---
 
@@ -35,7 +30,7 @@ Pixie
 ---
 
 ### Monster
-Familiar
+Familiar (Magic animal spirit)
 
 ---
 
@@ -45,7 +40,7 @@ Yokai (Evil spirit)
 ---
 
 ### Monster
-Kitsune 
+Kitsune (Fox spirit) 
 
 ---
 

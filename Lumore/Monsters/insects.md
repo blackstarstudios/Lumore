@@ -1,11 +1,116 @@
 # Insect Monsters
 
 ## Introduction
-
+Start
 
 ## Known Beasts
 ### Monster
-Start
+Beetle
+
+---
+
+### Monster
+Mantis
+
+---
+
+### Monster
+Bee
+
+---
+
+### Monster
+Wasp
+
+---
+
+### Monster
+Mosquito
+
+---
+
+### Monster
+Dragonfly
+
+---
+
+### Monster
+Caterpillar
+
+---
+
+### Monster
+Spider
+
+---
+
+### Monster
+Trick Spider
+
+---
+
+### Monster
+Ant
+
+---
+
+### Monster
+Scorpion
+
+---
+
+### Monster
+Sun Beetle
+
+---
+
+### Monster
+Abatwa (Warrior ant)
+
+---
+
+### Monster
+Gold-Digging Ant
+
+---
+
+### Monster
+Termite
+
+---
+
+### Monster
+Cicada
+
+---
+
+### Monster
+Arachne (Spider queen woman)
+
+---
+
+### Monster
+Butterfly
+
+---
+
+### Monster
+False Butterfly
+
+---
+
+### Monster
+Water skitter
+
+---
+
+### Monster
+Khepri (Solar beetle)
+
+---
+
+### Monster
+Roach
 
 ---
 
@@ -41,52 +146,6 @@ Start
 
 ### Monster
 Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
 
 <br/>
 
@@ -95,7 +154,12 @@ Start
 
 
 ### Monster
-Start
+Scorpion man (BOSS)
+
+---
+
+### Monster
+Tsuchigumo (Evil spider)
 
 ---
 
@@ -121,31 +185,3 @@ Start
 
 ### Monster
 Start
-
----
-
-### Monster
-Start
-
-- Anansi/Iktomi (Trickster spider)
-- Arachne (Spider queen woman)
-- Gold-Digging Ant
-- Khepri (Solar beetle)
-- Scorpion man (BOSS)
-- Tsuchigumo (Evil spider)
-- Mantis
-- Ant
-- Spider
-- Dragonfly
-- Wasp
-- Bee
-- Scorpion
-- Roach
-- Termite
-- Cicada
-- Butterfly
-- Caterpillar
-- Mosquito
-- Water skitter
-- Lou Carcolh (centipede snail)
-- Abatwa (Warrior ant)

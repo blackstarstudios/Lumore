@@ -4,33 +4,11 @@
 
 Start
 
-- Pixie (fairy like sprite)
-- Djinn (Genie)
-- Familiar (Magic animal spirit)
-- Kitsune (Fox spirit)
 - Phantom cat (Lionkin spirit)
-- Saci (Black djinn)
-- Nephele (cloud woman)
-- Tsukumogami (Spirits that possecess objects that come to life, of their own accord)
-- Sandman (Dream spirit)
 - Will-o'-the-wisp (Grave spirit)
-- Yokai (Evil spirit)
 - Zduhać (Mountain spirit)
 - Shen (Holy mountain spirit)
-- Huli jing (Kitsune spirit woman)
 - Asteriae (Star garden spirit)
-
-## Common
-
-## Rare
-
-### Sphinx 
-
-The sphinx is a desert guardian that is summoned to protect precious ancient desert dungeons and tombs. They have the special ability of self petrification that allows it to maintain its lifespan for centuries.
-
-### Ferrolon
-
-The ferrolon is a metal winged lyeon beast that is summoned to protect antient mountain temples and dungeons.
 
 ## Introduction
 
@@ -42,47 +20,47 @@ Start
 ---
 
 ### Monster
-Start
+Djinn (Genie)
 
 ---
 
 ### Monster
-Start
+Pixie
 
 ---
 
 ### Monster
-Start
+Familiar (Magic animal spirit)
 
 ---
 
 ### Monster
-Start
+Yokai (Evil spirit)
 
 ---
 
 ### Monster
-Start
+Kitsune (Fox spirit) 
 
 ---
 
 ### Monster
-Start
+Sandman (Dream spirit)
 
 ---
 
 ### Monster
-Start
+Tsukumogami (Spirits that possecess objects that come to life, of their own accord)
 
 ---
 
 ### Monster
-Start
+Saci (Black djinn)
 
 ---
 
 ### Monster
-Start
+Nephele (cloud/weather spirit)
 
 ---
 
@@ -125,14 +103,18 @@ Start
 
 ## Named Beasts
 
+### Monster 
+The sphinx is a desert guardian that is summoned to protect precious ancient desert dungeons and tombs. They have the special ability of self petrification that allows it to maintain its lifespan for centuries.
 
-### Monster
-Start
+---
+
+### Ferrolon
+The ferrolon is a metal winged lyeon beast that is summoned to protect antient mountain temples and dungeons.
 
 ---
 
 ### Monster
-Start
+Huli jing (Kitsune spirit woman)
 
 ---
 

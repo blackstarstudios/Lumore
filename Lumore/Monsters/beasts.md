@@ -46,6 +46,11 @@ Goat
 
 ---
 
+### Oviterre 
+The oviterre remains in mountainous areas and is fond of raising special flowers. (Mountain goat)
+
+---
+
 ### Monster
 Sheep
 
@@ -56,8 +61,8 @@ Bear
 
 ---
 
-### Monster
-Deer
+### Eiknoll
+The eiknoll is a deer beast that is covered head to hoof in a large shag pelt that keeps it warm in Torfrost’s harsh enviroment. (deer)
 
 ---
 
@@ -71,13 +76,18 @@ Wolf
 
 ---
 
+### Stontaur 
+Stontaur is a large bovine beast that is largely covered in hard stones.
+
+--- 2, x  -
+
 ### Monster
 Bull
 
 ---
 
-### Monster
-Bunny
+### Hornbit 
+The hornbit is a horned rabbit beast that uses its horns to retrieve fruits growing in high places. (rabbit)
 
 ---
 
@@ -86,18 +96,18 @@ Horse
 
 ---
 
-### Monster
-Boar
+### Borswine
+The borswine is a spiked swinal beast that tastes great on a low simmer. (Boar)
 
 ---
 
-### Monster
-Hippo
+### Hippoar
+The hippoar claims kingship of the waters of the great savanna. (Hippo)
 
 ---
 
-### Monster
-Monkey
+### Monkree
+The monkree maintains its dominance within the trees of the land. (Monkey)
 
 ---
 
@@ -131,8 +141,8 @@ Lynx
 
 ---
 
-### Monster
-Rhino
+### Karkron 
+The karkron is a beefy horned rhinock beast that mainly resides in the Sunbarrens. It uses its strong legs and armor plated Front to bulldoze trees to reach high growing fruit. (Rhino)
 
 ---
 
@@ -271,6 +281,10 @@ Llama
 
 ---
 
+### Cockfyre 
+The cockfyre is a small winged chicken beast that breaths a small amount of fire to toast plants and berries to eat while also using it to fend off predators. (chicken)
+
+---
 
 ### Cane
 The cane is a beast that is smaller than a wolve that is commonly domesticated for hunting purposes.
@@ -296,20 +310,11 @@ The tyger is a 2 horned cat beast that lives mainly in jungle regions.
 ### Threshuma 
 The threshuma is a cat beast that has an iron like ball apendage at the end of its tail. It uses it to construct its den and break down the structure of its prey.
 
-### Eiknoll
-The eiknoll is a deer beast that is covered head to hoof in a large shag pelt that keeps it warm in Torfrost’s harsh enviroment.
-
 ### Wolitzol 
 The Wolitzol is a wolve beast that is equipped with a long tail that has a bladed end. It wields its tail with deadly speed.
 
-### Mareclad 
-The mareclad is a metal clad mare beast that is highly territorial. It wears its metal like armor, charging directly at foes and trampling them to death.
+gs.
 
-### Hornbit 
-The hornbit is a horned lepic beast that uses its horns to retrieve fruits growing in high places.
-
-### Cockfyre 
-The cockfyre is a small winged chicken beast that breaths a small amount of fire to toast plants and berries to eat while also using it to fend off predators.
 
 ### Bearve 
 The bearve is tall and wide cat bear beast that lurks uptop woodland trees to ground slam unsuspecting prey from above with great force.
@@ -317,8 +322,6 @@ The bearve is tall and wide cat bear beast that lurks uptop woodland trees to gr
 ### Frotbull 
 The frotbull native to artic regions protects itself by coating its horns underwater and letting them freeze to create frozen spikes.
 
-### Oviterre 
-The oviterre remains in mountainous areas and is fond of raising special flowers.
 
 ### Tundra Wolve
 Large wolves that reside in Altin, Torfrost, and Alphi.
@@ -326,20 +329,12 @@ Large wolves that reside in Altin, Torfrost, and Alphi.
 ###  Desertooth
 The desertooth is an aggressive tigre beast that roams the Bacombe and Khasu regions.
 
-### Stontaur 
-Stontaur is a large bovine beast that is largely covered in hard stones.
-
 ### Tunki 
 Tunki are small volpe-pandu like beasts that commonly act as forest tricksters. They use the sticky saliva they spit to create small traps for their prey or escaping predators.
 
 ### Bandmare 
 The bandmare is a large black horse that is known for its unforgiving nature. Bandmare’s are often preferred by high value criminals since they have the skill to disappear into the shadows.
 
-### Dark Karka 
-The dark karka is a beefy horned rhinock beast that mainly resides in the Sunbarrens. It uses its strong legs and armor plated Front to bulldoze trees to reach high growing fruit.
-
-### Great Borswine
-The great borswine is a lyeon sized spiked swinal beast that tastes great on a low simmer.
 
 ### Bicorn
 The bicorn is a mare beast that is rather territorial but is commonly tamed for human use.
@@ -368,11 +363,7 @@ The Paaglin is a large armored rodent.
 ### Eleont 
 The eleont boasts the one of the largest beastial masses on the land.
 
-### Hippoar
-The hippoar claims kingship of the waters of the great savanna.
 
-### Monkre
-The monkee maintains its dominance within the trees of the land.
 
 ### Black Vulpe 
 The black vulpe is a dangerous beast that is considerably larger than a wolve but smaller than a tundra wolve. They are far more agreesive than their smaller brethren. It is said to use a form of dark magic to confuse and ensnare their prey.

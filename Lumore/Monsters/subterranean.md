@@ -1,35 +1,26 @@
 # Subterranean Monsters
 
 ## Introduction
-
 Start
-
-- Camazotz (Ancient Bat)
-- Mole
-- Worm
-- Mongolian Death Worm
-
-## Introduction
-
 
 ## Known Beasts
 ### Monster
-Start
+Worm
 
 ---
 
 ### Monster
-Start
+Mole
 
 ---
 
 ### Monster
-Start
+Death Worm
 
 ---
 
 ### Monster
-Start
+Bat
 
 ---
 
@@ -104,7 +95,7 @@ Start
 
 
 ### Monster
-Start
+Camazotz (Ancient Bat)
 
 ---
 

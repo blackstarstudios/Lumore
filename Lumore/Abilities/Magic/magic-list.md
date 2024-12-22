@@ -2,32 +2,32 @@ Magic List
 
 1 (Base Element) | 29 (Element Branch) | 5 (Branch Node) | 8 (Tier)
 
-Earth
-Stone Mud Metal Crystal Plant Life Mirror Weapon Armor Mountain Creation
+# Earth
+Stone Mud Metal Crystal Plant Life Mirror Weapon Armor Mountain Creation Beast
 
-Water
-Ice Potion Poison Acid Blood Rain
+# Water
+Ice Potion Poison Acid Blood Rain Slime
 
-Air
+# Air
 Storm Sound Toxic Music Illusion 
 
-Fire
+# Fire
 Lava Lightning Energy Explosive Nuclear Speed Enhancement Redfire
 
-Light
-Psyche Dream Holy Incarnation Enchantment Rally Luck Balance
+# Light
+Psyche Dream Holy Incarnation Enchantment Rally Luck Balance Scan
 
-Dark
-Nightmare Fear Shadow Demon Devil Death Void
+# Dark
+Nightmare Fear Shadow Demon Devil Death Void 
 
-Space
+# Space
 Field Presence Gravity Realm Trap Barrier Domain
 
-Time
+# Time
 Infinite 
 
-Spirit Float         Scan Beast Game 
-Food Card  Law Attraction Rubber Purifying Soul Slayer Slime  Wind Flame Radiant Shadow Position 
+Spirit Float Game 
+Food Card  Law Attraction Rubber Purifying Soul Slayer   Wind Flame Radiant Shadow Position 
 Reduction     Flood Gust Blaze Luminous  Poison Black  Acceleration 
 Bedrock Current Vortex Inferno Ray Corruption Teleport Regression Flower Tree Summoning Igneous Golem Seal Paint Cyclone Storm Cloud Voice Contract Mind Blessing Mirror Holy Lazer Blood Curse Demon Absorption Gate Cosmic Warp Pause Quake Tidal Jet Star Anti 
 Subspace Temporal  Nightstar Cosmic Ocean Sky Holyfire Hellfire Nuclear Draconic DragonSlayer Blackfire Whitefire Life Daystar Darkstar  

@@ -6,15 +6,10 @@ Start
 
 - Cuthulu
 - Leviathan
-- Devil Whale (Moby Dick)
-- Makara (Serpent dragon)
 - Hippocampus (Horse fish)
 - Grindylow (Frog squid monster)
-- Karkinos (Giant terror Crab)
 - Loch Ness Monster
-- Bahamut (world whale)
-- Kraken BOSS
-- Charybdis
+- 
 - Shen (Trickster Sea dragon)
 - Akhlut (Shark/orca beast)
 - Tizheruk (large artic devil eel)
@@ -22,13 +17,9 @@ Start
 - Abaia (Giant eel)
 - Pisces (Twin fish guardians)
 - Ika-Roa (Deep sea long shark fish)
-- Isonade (Armored shark)
 - Shachihoko (Beast fish)
 - Cai Cai-Vilu (Draconic eel)
-- Morgawr (Pleisiasur-like beast)
-- World Turtle (Island turtle)
 - Ala (Mist sea serpent)
-- Zaratan (giant crab w/ top wreck ship)
 
 ## Known Beasts
 
@@ -178,32 +169,32 @@ Catfish
 ---
 
 ### Monster
-Start
+World Turtle (Island turtle)
 
 ---
 
 ### Monster
-Start
+Karkinos (Giant terror Crab)
 
 ---
 
 ### Monster
-Start
+Morgawr (Pleisiasur-like beast)
 
 ---
 
 ### Monster
-Start
+Seahorse
 
 ---
 
 ### Monster
-Start
+Isonade (Armored shark)
 
 ---
 
 ### Monster
-Start
+Zaratan (giant crab w/ top wreck ship)
 
 ---
 
@@ -243,19 +234,24 @@ Pirranha
 
 
 ### Monster
-Start
+Devil Whale (Moby Dick)
 
 ---
 
 ### Monster
-Start
+Kraken BOSS
 
 ---
 
 ### Monster
-Start
+Makara (Serpent dragon)
 
 ---
 
 ### Monster
-Start
+Bahamut (world whale)
+
+---
+
+### Monster
+Charybdis

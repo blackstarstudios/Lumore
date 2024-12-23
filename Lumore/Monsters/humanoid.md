@@ -4,15 +4,10 @@
 
 Start
 
-- Goblin, Hobgoblin
 - Troll
 - Gnome
 - Snow Yeti
 - Bigfoot (Forest Yeti)
-- Cyclops
-- Leprechaun 
-- Siren
-- Kobold
 - Werewolf
 - Werejaguar
 - Werehyena 
@@ -23,8 +18,6 @@ Start
 - Demon Cat (Evil cat warrior)
 - Hibagon (Bipedal white mountain orangatan)
 - Vanara (Monkey warrior)
-- Minotaur
-- Centaur
 - Zhu Bajie (pigkin warrior)
 - Ajatar (Winged gorgon)
 - Tengu (birdman warrior)
@@ -49,47 +42,47 @@ Start
 
 ## Known Beasts
 ### Monster
-Start
+Goblin
 
 ---
 
 ### Monster
-Start
+Hobgoblin
 
 ---
 
 ### Monster
-Start
+Yeti
 
 ---
 
 ### Monster
-Start
+Siren
 
 ---
 
 ### Monster
-Start
+Kobold
 
 ---
 
 ### Monster
-Start
+Cyclops
 
 ---
 
 ### Monster
-Start
+Gnome
 
 ---
 
 ### Monster
-Start
+Minotaur
 
 ---
 
 ### Monster
-Start
+Centaur
 
 ---
 

@@ -95,12 +95,12 @@ Start
 
 
 ### Monster
-Start
+Ifrit (top fire spirit)
 
 ---
 
 ### Monster
-Start
+Undine (high water spirit)
 
 ---
 
@@ -128,8 +128,8 @@ Start
 Start
 
 - Phoenix (high fire spirit)
-- Ifrit (top fire spirit)
-- Undine (high water spirit)
+- 
+- 
 - Huma bird (Twin-headed/elements (storm+fire) spirit)
 - Lampad (High light spirit)
 - Bluecap (Bluefire spirit)

@@ -4,9 +4,9 @@
 
 Start
 
-- Carbunckle (Jewel flame fox)
-- Asag (Rockfire titan)
-- Gargoyle
+- 
+- 
+- 
 - Ten Ten-Vilu (Stone mountain snake)
 - Bulgasari (Giant bone-rock behemoth titan)
 - Gargouille (Desert stone golem statue)
@@ -16,17 +16,17 @@ Start
 
 ## Known Beasts
 ### Monster
-Start
+Carbunckle (Jewel flame fox)
 
 ---
 
 ### Monster
-Start
+Gargoyle
 
 ---
 
 ### Monster
-Start
+Asag (Rockfire titan)
 
 ---
 

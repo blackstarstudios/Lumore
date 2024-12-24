@@ -28,7 +28,11 @@ Literacy:
 Country name:
 Goverment type: 
 Government leader:
-Capital:
+Capital: Tonton
+City: Genthiya
+City: Mocacoula
+Town: Antoba
+Town: Limte
 Administrative divisions:
 Independence:
 National holiday:

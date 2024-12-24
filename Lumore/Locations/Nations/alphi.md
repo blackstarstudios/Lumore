@@ -28,7 +28,8 @@ Literacy:
 Country name:
 Goverment type: 
 Government leader:
-Capital:
+Capital: Rime
+Major City: Witmoor
 Administrative divisions:
 Independence:
 National holiday:

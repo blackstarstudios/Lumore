@@ -28,7 +28,10 @@ Literacy:
 Country name:
 Goverment type: 
 Government leader:
-Capital:
+Capital: Samagara
+City: Bosa
+Town: Hajishi
+Town: Egoda
 Administrative divisions:
 Independence:
 National holiday:

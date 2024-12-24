@@ -29,7 +29,9 @@ Country name:
 Goverment type: 
 Government leader:
 Capital: Rime
-Major City: Witmoor
+City: Witmoor
+Town: Niaby
+Town: Poleton
 Administrative divisions:
 Independence:
 National holiday:

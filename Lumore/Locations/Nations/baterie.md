@@ -29,6 +29,10 @@ Country name:
 Goverment type: 
 Government leader:
 Capital:
+City: Rigohar
+City: Afhgoo
+Town
+Town:
 Administrative divisions:
 Independence:
 National holiday:

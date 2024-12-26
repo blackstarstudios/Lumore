@@ -79,7 +79,7 @@ Wolf
 ### Stontaur 
 Stontaur is a large bovine beast that is largely covered in hard stones.
 
---- 2, x  -
+---
 
 ### Monster
 Bull
@@ -151,8 +151,8 @@ Mandrill
 
 ---
 
-### Monster
-Elephant
+### Eleont 
+The eleont boasts the one of the largest beastial masses on the land (Elephant)
 
 ---
 
@@ -359,10 +359,6 @@ The baera is a large uruic beast that hunts as one of the top predators of the f
 
 ### Paaglin
 The Paaglin is a large armored rodent.
-
-### Eleont 
-The eleont boasts the one of the largest beastial masses on the land.
-
 
 
 ### Black Vulpe 

@@ -160,7 +160,7 @@ __ __
 > Casino
 
 __Oracle__
-> International police
+> International authority
 
 __ __
 > Spa resort
@@ -184,10 +184,10 @@ __ __
 > farming company
 
 __ __
-> 
+> Religious Assassination Order 
 
 __ __
->
+>  
 
 __ __
 >

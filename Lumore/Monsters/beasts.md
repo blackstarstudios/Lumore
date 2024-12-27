@@ -6,27 +6,27 @@ Start
 
 ## Known Beasts
 
-### Monster
+### Caine
 Dog
 
 ---
 
-### Monster
+### Lyeon
 Lion
 
 ---
 
-### Monster
+### Tigreer
 Tiger
 
 ---
 
-### Monster
+### Threshuma
 Puma
 
 ---
 
-### Monster
+### Feneke
 Fox
 
 ---
@@ -36,12 +36,12 @@ Hyena
 
 ---
 
-### Monster
+### Jagyion
 Jaguar
 
 ---
 
-### Monster
+### Caprical
 Goat
 
 ---
@@ -51,12 +51,12 @@ The oviterre remains in mountainous areas and is fond of raising special flowers
 
 ---
 
-### Monster
+### Mowool
 Sheep
 
 ---
 
-### Monster
+### Honbear
 Bear
 
 ---
@@ -66,12 +66,12 @@ The eiknoll is a deer beast that is covered head to hoof in a large shag pelt th
 
 ---
 
-### Monster
+### Giantnoll
 Moose
 
 ---
 
-### Monster
+### Wolitzol
 Wolf
 
 ---
@@ -81,7 +81,7 @@ Stontaur is a large bovine beast that is largely covered in hard stones.
 
 ---
 
-### Monster
+### bull
 Bull
 
 ---

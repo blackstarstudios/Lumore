@@ -7,11 +7,11 @@ Start
 ## Known Beasts
 
 ### Caine
-Dog
+The caine is a dog beast that is smaller than a wolve that is commonly domesticated for hunting purposes.
 
 ---
 
-### Lyeon
+### Lye on
 Lion
 
 ---
@@ -286,9 +286,6 @@ The cockfyre is a small winged chicken beast that breaths a small amount of fire
 
 ---
 
-### Cane
-The cane is a beast that is smaller than a wolve that is commonly domesticated for hunting purposes.
-
 ### Vulpe
 The Vulpe is a small beast that snickers.
 
@@ -309,9 +306,6 @@ The tyger is a 2 horned cat beast that lives mainly in jungle regions.
 
 ### Threshuma 
 The threshuma is a cat beast that has an iron like ball apendage at the end of its tail. It uses it to construct its den and break down the structure of its prey.
-
-### Wolitzol 
-The Wolitzol is a wolve beast that is equipped with a long tail that has a bladed end. It wields its tail with deadly speed.
 
 gs.
 

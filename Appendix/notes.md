@@ -1,5 +1,26 @@
 # Notes
 
+## Locations
+Bahen
+Glisscar
+
+
+## People
+
+## Entities
+Racist human group
+
+## Monsters
+
+## Abilities
+Horns of Gabriel - Holy Magic debuff
+Hand of God
+
+## Items
+
+
+
+
 ## Inspiration from Bible
 God's special garden
 God's good tree

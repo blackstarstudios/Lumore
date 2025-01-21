@@ -14,7 +14,7 @@ Of the Supreme, came that of the Prime. There was Jofiel, Hermle, and Lynniel of
 Following the will of the Prime, cometh the Major. There was Montero, Uran, Sage, Wolford, Asanna, Crozzen, Yukire, Agil, Veneti, Rachess, and Bingeal. Spreading good will to the Lumverse.
 
 - The Judge being the Major Star of Law and Reason, represented by the Orderstar
-- The Commander being the Major Star of War and Honor, represented by the Iornstar
+- The Commander being the Major Star of War and Honor, represented by the Ironstar
 - The Teacher being the Major Star of Knowledge and Wisedom, represented by the Wisestar
 - The Wizard being the Major Star of Magic and Sorcery, represented by the Magistar
 - The Love being the Major Staress of Love and Marriage, represented by the Lovestar

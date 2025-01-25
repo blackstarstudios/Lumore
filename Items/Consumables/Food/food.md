@@ -9,44 +9,43 @@ Abble - Apple
 Citrine - Orange
 Banaan - Banana 
 Melon - Watermelon
-Cherry
-Blackberry 
-Blueberry
+Swerry - Cherry
+Nollberry - Blackberry 
+Indiberry - Blueberry
 Tartberry - Cranberry
-Kiwi
-Sour fruit - Lemon 
+Kimi - Kiwi
+Sourfruit - Lemon 
 Zitrine - Lime
-Papaya 
-Passion Fruit 
+Pambai - Papaya 
+Mandago - Passion Fruit 
 Futrine - Peach 
-Pear
+Papple - Pear
 Tropango - Mango 
-Pomegranate
+Bounchi - Pomegranate
 Spikeabble - Pineapple 
-Plum 
-Raspberries 
-Star Fruit
-Strawberry 
-nuts
-
-berry
-Boysenberry 
-Canary Melon 
+Redrine - Plum 
+Rasherry - Raspberry
+Cosmifruit - Star Fruit
+Momberry - Strawberry 
+Draple - Raisin
+ - Nut
+Graple - Grape
+Boysenberry  
 Cantaloupe 
 Casaba Melon 
 Cherimoya
 Christmas Melon 
 Crenshaw Melon
-Currants 
+Curberre - Currants 
 Dates 
-Dragon Fruit 
-Durian Figs
+Alifrute - Dragon Fruit 
+Founchi - Durian Figs
 Gooseberry Grapes 
-Grapefruit 
-Guava 
+Grabmelon - Grapefruit 
+Guama - Guava 
 Honeydew Melon
 Horned Melon 
-Jack Fruit 
+Abmelon - Jack Fruit 
 Jujube 
 Kumquat
 Loganberry 
@@ -61,7 +60,7 @@ Musk Melon
 Nance 
 Nectarine 
 Blood Orange 
-Persimmon  
+Tomatine - Persimmon  
 Prickly Cactus Pear
 Pommelo 
 Pulasan 
@@ -70,7 +69,7 @@ Satsuma
 Soursop 
 Tamarillo 
 Tangelo
-Tangerine 
+Titrine - Tangerine 
 Ugli fruit 
 
 ### Vegtables

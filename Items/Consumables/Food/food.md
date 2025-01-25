@@ -13,8 +13,8 @@ Cherry
 Blackberry 
 Blueberry
 Tartberry - Cranberry
-Kiwi 
-Lemon 
+Kiwi
+Sour fruit - Lemon 
 Zitrine - Lime
 Papaya 
 Passion Fruit 

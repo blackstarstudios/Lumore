@@ -2,7 +2,15 @@
 
 ## Introduction
 
-Proshire
+Sunfell
+Autian
+Feua
+Ehona Plum
+Ekryaim
+Wyntolm
+Balawyn
+Yaaonhel
+Aloore
 
 ## Northern Continent
 ### Alphi, Nickname
@@ -20,7 +28,7 @@ Climate, Landscape: Very Cold, Glacial Desert
 Goverment: Despotism - Dictatorship
 Dictator: Tosul, The King of 100 Treasures (Azureen)
 Top Guard: Liann, Gate of Colmere (Polar Clan)
-Capital:
+Capital: Glisscar
 Economy, Export: $$$$, Rare minerals
 Population: Azureen, Polar Clan, Ivor 
 Attraction(s): Mineral mines, rare gems, Sustainability Domes
@@ -41,7 +49,7 @@ Climate, Landscape: Chilly, Darkwoods
 Goverment: 
 Leader:
 Top Soldier:
-Capital:
+Capital: Monogoro
 Economy, Export:
 Population: Dark Elves
 Attraction(s):
@@ -61,7 +69,7 @@ Climate, Landscape: Warm, Lostlands
 Goverment: Divided Anarchy - Sectioned off to different Faction Leaders 
 Leader:
 Top Soldier:
-Capital:
+Capital: Ighura
 Economy, Export: $, 
 Population:
 Attraction(s): Lwaless nation, Debauchery central
@@ -146,7 +154,7 @@ Climate, Landscape: Cool, Lowfields
 Goverment: Timocracy - Landowner Leadership
 Sovereign: Ettore, Mr. Proprietor (Giant)
 Top Guardsman: Hias, Death Stomp (Giant)
-Capital:
+Capital: Proshire
 Economy, Export: $$$, Milk and Honey
 Population: Giants
 Attraction(s): Foods
@@ -156,7 +164,7 @@ Climate, Landscape: Hot, Blue Tropics
 Goverment: Geniocracy - Intellectual Leadership
 Monarch: Leieth, Light Mind (Angler Clan)
 Top Guardineer: Cyraenan, Eight Headed Demon (Octopus Clan)
-Capital:
+Capital: Bahen
 Economy, Export: $$$$, Rune Technolgy
 Population: Merkin, Tearans
 Attraction(s): Tech Innovations, Bio Dome

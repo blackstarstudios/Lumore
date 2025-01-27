@@ -3,7 +3,17 @@
 ## Locations
 Bahen
 Glisscar
-
+Sunfell
+Autian
+Ighura
+Feua
+Ehona Plum
+Monogoro
+Ekryaim
+Wyntolm
+Balawyn
+Yaaonhel
+Aloore
 
 ## People
 

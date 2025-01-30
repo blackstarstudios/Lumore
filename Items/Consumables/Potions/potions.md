@@ -2,10 +2,25 @@
 
 ## Introduction
 
-## Potion Types
+## Potions
+Health potion = Increase health points (Regeneration)
+Stamina potion = Increase health points (Regeneration)
+Magic potion = Increase health points (Regeneration)
+Aura potion = Increase health points (Regeneration)
+Strength potion = Increase health points (Regeneration)
+Defense potion
+
+## Poisons
+Health poison
+Stamina poison
+Magic poison
+Aura poison
+Strength poison
+Defense poison
+
 ### Health potions
 
-Regeneration
+
 
 ### Stamina potions
 

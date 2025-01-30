@@ -29,6 +29,7 @@ Hand of God
 ## Items
 
 
+## Weapons
 
 
 ## Inspiration from Bible

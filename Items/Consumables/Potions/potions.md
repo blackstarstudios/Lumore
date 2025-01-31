@@ -3,20 +3,20 @@
 ## Introduction
 
 ## Potions
-Health potion = Increase health points (Regeneration)
-Stamina potion = Increase health points (Regeneration)
-Magic potion = Increase health points (Regeneration)
-Aura potion = Increase health points (Regeneration)
-Strength potion = Increase health points (Regeneration)
-Defense potion
+Health potion = +HP (Regeneration)
+Stamina potion = +SP (Recovery)
+Magic potion = +MP (Restore)
+Aura potion = +Aura (Revitalize)
+Strength potion = +STR (Strenghten)
+Defense potion = +DEF (Bulk)
 
 ## Poisons
-Health poison
-Stamina poison
-Magic poison
-Aura poison
-Strength poison
-Defense poison
+Health poison = -HP (Regeneration)
+Stamina poison = -HP (Regeneration)
+Magic poison = -HP (Regeneration)
+Aura poison = -HP (Regeneration)
+Strength poison = -STR (Regeneration)
+Defense poison = -DEF (Weaken)
 
 ### Health potions
 
@@ -24,15 +24,15 @@ Defense poison
 
 ### Stamina potions
 
-Recovery
+
 
 ### Mana potions
 
-Restore
+
 
 ### Aura potions
 
-Revitalize
+
 
 ### Speed potions
 

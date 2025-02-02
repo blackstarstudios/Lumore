@@ -3,12 +3,20 @@
 ## Introduction
 
 ## Potions
-Health potion = +HP (Regeneration)
-Stamina potion = +SP (Recovery)
-Magic potion = +MP (Restore)
-Aura potion = +Aura (Revitalize)
-Strength potion = +STR (Strenghten)
-Defense potion = +DEF (Bulk)
+Health Potion = +HP (Regeneration)
+Stamina Potion = +SP (Recovery)
+Magic Potion = +MP (Restore)
+Aura Potion = +AP (Revitalize)
+Strength Potion = +STR (Strenghten)
+Defense Potion = +DEF (Bulk)
+Agility Potion = +AGI (Quick)
+Speed Potion = +SPD (Boost)
+Proficiency Potion = +PRO ()
+Magic Potion = +MAG ()
+
+Charisma Potion = +CHR ()
+Fortitude Potion = +FRT ()
+Luck Potion = +LUC ()
 
 ## Poisons
 Health poison = -HP (Regeneration)
@@ -17,31 +25,3 @@ Magic poison = -HP (Regeneration)
 Aura poison = -HP (Regeneration)
 Strength poison = -STR (Regeneration)
 Defense poison = -DEF (Weaken)
-
-### Health potions
-
-
-
-### Stamina potions
-
-
-
-### Mana potions
-
-
-
-### Aura potions
-
-
-
-### Speed potions
-
-Boost
-
-### Strength potions
-
-### Defense potions
-
-### Agility potions
-
-### Poisons

@@ -25,44 +25,40 @@ There are different
 
 ## Dungeon concpets
 
-Ancient Battleground
-Spider nest
-Undead Castle
-Land of the Dead
-Frozen Wasteland
-Desert Tomb
-Frozen Tomb
-Overbearing Garden
-Dwelling of Giants
-Sky islands
-Blast to Past
-Test of Memories
-Abandoned city
-
-
-F  Cave
-Island
-D  Dangerous Mountain
-
-C  Sunken Graveyard
-Overun Science Lab
-Ant colony
-B  Bee hive colony
-Ancient Ruins
-Monkey Palace
-Labryinth
-Statue Memorial
-Dragon nest
-A  Overrun Prison for Malevolants
-Ancient Beasts
-S  Place of Dragons
-Layline to Spirit world
-SS Portal from Shogrinn
+F  - Cave - Bear
+Island - 
+Overbearing Garden - 
+D  - Dangerous Mountain -
+Wicked Forest - 
+C  - Sunken Graveyard -
+Overun Science Lab - toxin slime king
+Frozen Wasteland - 
+Desert Tomb - 
+Frozen Tomb - 
+Ant colony - Ant Queen
+B  - Bee hive colony - Hive queen and king
+Spider nest - 
+Ancient Battleground - 
+Blast to Past - 
+Ancient Ruins - 
+Sky islands - 
+Monkey Palace - Giant orangutan king
+Undead Castle - Lich king
+Labryinth - Raged Minotaur
+Test of Memories - 
+Statue Memorial - Statue deity
+Dwelling of Giants - 
+Dragon nest - Mother Dragon 
+Land of the Dead - 
+A  - Overrun Prison for Malevolants -
+Ancient Beasts - 
+S  - Place of Dragons -
+Layline to Spirit world - 
+SS - Portal from Shogrinn - Demon Noble
 
 ## Bosses
 Shark
 Dragon
-Minotaur
 Angel
 Leviathan
 Bull
@@ -74,14 +70,13 @@ Golem
 Ghost
 Being
 Demon
-Hive
 Spider
 Slime
 Titan
 Bird
-Statue
+
 Ghoul
-Giant orangutan
+
 Squid
 
 ## F Rank Dungeons

@@ -466,7 +466,7 @@ Do you dare?
 100 - boss, treasure
 
 
-### Inighre I
+### Inghura I
 Khasu, Desert Dungeon
 Boss: Orapyre, The Unpure Flame (Banished Spirit)
 

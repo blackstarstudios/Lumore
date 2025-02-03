@@ -24,34 +24,40 @@ dungeons. One does not challenge the dungeon boss without the will to conquer an
 There are different
 
 ## Dungeon concpets
-Labryinth
+
 Ancient Battleground
-Abandoned city
-Ant hive colony
-Bee Nest
 Spider nest
-Dragon nest
-Overrun Prison for Malevolants
 Undead Castle
-Portal from Shogrinn
-Island
-Overun Science Lab
-Dangerous Mountain
 Land of the Dead
 Frozen Wasteland
-Sunken Graveyard
 Desert Tomb
 Frozen Tomb
-Layline to Spirit world
 Overbearing Garden
-Ancient Beasts
 Dwelling of Giants
 Sky islands
-Statue Memorial
-Place of Dragons
 Blast to Past
 Test of Memories
+Abandoned city
+
+
+F  Cave
+Island
+D  Dangerous Mountain
+
+C  Sunken Graveyard
+Overun Science Lab
+Ant colony
+B  Bee hive colony
 Ancient Ruins
+Monkey Palace
+Labryinth
+Statue Memorial
+Dragon nest
+A  Overrun Prison for Malevolants
+Ancient Beasts
+S  Place of Dragons
+Layline to Spirit world
+SS Portal from Shogrinn
 
 ## Bosses
 Shark
@@ -75,6 +81,8 @@ Titan
 Bird
 Statue
 Ghoul
+Giant orangutan
+Squid
 
 ## F Rank Dungeons
 

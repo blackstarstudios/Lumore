@@ -1,20 +1,20 @@
 # Natural Materials
 
 ## Plant
-Glaneel wood
-Highluhn wood
-Darym
-Elwood stick
-Warmwood
-Oasapalm leaf
-Tropico wood
-Cherrywood
-Vineland bark
-Mogwoom vine
-Ironwood plank
-valleywood
-taigawood
-Shodwood
+Glaneel wood = Arctic mountain trees
+Highluhn wood = Tall trees
+Darym = 
+Elwood = 
+Warmwood = 
+Oasapalm wood = Beach trees
+Tropico wood = Tropical trees
+Cherrywood = East special trees
+Vineland = Jungle trees
+Mogwoom = Swamp trees
+Ironwood = Volcanic trees
+Valleywood = Valley trees
+Taigawood = Snow forest trees
+Shodwood = Mountain trees
 
 Friegast bulb
 Saunroot petal

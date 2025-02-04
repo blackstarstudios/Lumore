@@ -2,158 +2,106 @@ Magic List
 
 1 (Base Element) | 29 (Element Branch) | 5 (Branch Node) | 8 (Tier)
 
-# Earth
-Stone Mud Metal Crystal Plant Life Mirror Weapon Armor Mountain Creation Beast
-
-# Water
-Ice Potion Poison Acid Blood Rain Slime
-
-# Air
-Storm Sound Toxic Music Illusion 
-
-# Fire
-Lava Lightning Energy Explosive Nuclear Speed Enhancement Redfire
-
-# Light
-Psyche Dream Holy Incarnation Enchantment Rally Luck Balance Scan
-
-# Dark
-Nightmare Fear Shadow Demon Devil Death Void 
-
-# Space
-Field Presence Gravity Realm Trap Barrier Domain
-
-# Time
-Infinite 
-
-Spirit Float Game 
-Food Card  Law Attraction Rubber Purifying Soul Slayer   Wind Flame Radiant Shadow Position 
-Reduction     Flood Gust Blaze Luminous  Poison Black  Acceleration 
-Bedrock Current Vortex Inferno Ray Corruption Teleport Regression Flower Tree Summoning Igneous Golem Seal Paint Cyclone Storm Cloud Voice Contract Mind Blessing Mirror Holy Lazer Blood Curse Demon Absorption Gate Cosmic Warp Pause Quake Tidal Jet Star Anti 
-Subspace Temporal  Nightstar Cosmic Ocean Sky Holyfire Hellfire Nuclear Draconic DragonSlayer Blackfire Whitefire Life Daystar Darkstar  
-    Wish
-
-Toxic
-Illusion
-Storm
-Spirit
-Float
-Speed
-Enchantment
-Rally
-Acid
-Field
-Weapon
-Armor
-Luck
-Scan
-Beast
-Game
-Food
-Card
-Presence
-Law
-Attraction
-Rubber
-Purifying
-Soul
-Slayer
-Slime
-Plant
+# -- Earth -- 
+Stone
 Mud
-Sand
-Rain
-Ice
-Wind
-Steam
-Smoke
 Metal
 Crystal
-Trap
-Potion
-Flood
-Paint
-Sound
-Gust
-Barrier
-Lava
-Energy
-Blaze
-Luminous
-Balance
-Poison
-Black
-Domain
-Acceleration
-
-# High Tier
+Plant
 Bedrock
-Golem
+Life
 Mirror
-Flower
+Weapon
+Armor
+Mountain
+Creation
+Beast
+
+# -- Water -- 
+Ice
+Potion
+Poison
+Acid
+Blood
+Rain
+Slime
+
+# -- Air -- 
+Storm
+Sound
+Toxic
+Music
+Illusion 
+
+# -- Fire -- 
+Flame
+Lava
+Lightning
+Energy
+Explosive
+Nuclear
+Speed
+Enhancement
+Redfire
+
+# -- Light -- 
+Radiant
+Psyche
+Dream
+Holy
+Incarnation
+Enchantment
+Rally
+Luck
+Balance
+Scan
+
+# -- Dark -- 
+Nightmare
+Fear
+Shadow
+Demon
+Devil
+Death
+Void 
+
+# -- Space -- 
+Position
+Field
+Presence
+Gravity
+Realm
+Trap
+Barrier
+Domain
+
+# -- Time -- 
+Reduction
+Infinite 
+
+
+
 Current
 Vortex
-Music
 Inferno
 Ray
-Contract
 Corruption
 Teleport
 Regression
-
-# Advanced Tier
+Flower
 Tree
 Summoning
 Igneous
-Metal
+Golem
 Seal
-Whirlpool
+Paint
 Cyclone
-Storm
 Cloud
 Voice
-Mind 
-Enhancement 
-Lightning 
-Eruption
-
-Music
-Toxic
-Illusion
-Dream
-Nightmare
-Spirit
-Mud
-Float
-Speed
-Enchantment
-Rally
-Acid
-Field
-Sword
-Map
-Armor
-Luck
-Scan
-Beast
-Game
-Food
-Card
-Presence
-Attraction
-Rubber
-Purifying
-Soul
-Slayer
-Slime
-Artillery
-Redfire
-Explosion
+Contract
+Mind
 Blessing
-Mirror
-Holy
 Lazer
-Blood
 Curse
 Absorption
 Gate
@@ -163,39 +111,108 @@ Pause
 Quake
 Tidal
 Jet
-Dream
-Nightmare
 Star
-Anti
-Devil
+Anti 
 Subspace
 Temporal
-Mountain
 Nightstar
 Cosmic
 Ocean
 Sky
 Holyfire
 Hellfire
-Nuclear
+Draconic
+DragonSlayer
+Blackfire
+Whitefire
+Daystar
+Darkstar  
+Wish
+Spirit
+Float
+Game
+Food
+Card
+Law
+Attraction
+Rubber
+Purifying
+Soul
+Slayer
+Sand
+Wind
+Steam
+Smoke
+Flood
+Paint
+Gust
+Blaze
+Luminous
+Black
+Acceleration
+Golem
+Flower
+Current
+Vortex
+Inferno
+Ray
+Contract
+Corruption
+Teleport
+Regression
+Tree
+Summoning
+Igneous
+Seal
+Whirlpool
+Cyclone
+Cloud
+Voice
+Mind 
+Eruption
+Spirit
+Float
+Sword
+Map
+Game
+Food
+Card
+Attraction
+Rubber
+Purifying
+Soul
+Slayer
+Artillery
+Explosion
+Blessing
+Lazer
+Curse
+Absorption
+Gate
+Cosmic
+Warp
+Pause
+Quake
+Tidal
+Jet
+Star
+Anti
+Subspace
+Temporal
+Nightstar
+Cosmic
+Ocean
+Sky
+Hellfire
 Draconic
 Dragon Slayer
 Blackfire
 Whitefire
-Life
 Daystar
-Death
-Demon
 Darkstar
-Void
-Gravity
 Infinite
-Divine 
-Wish
-Reincarnation
-Incarnation
+Divine
 Realsm
-Creation
 
 ## Basic Tier ==>
 - 10001 __Earth Magic__ = Earth ==>

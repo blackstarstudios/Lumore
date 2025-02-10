@@ -16,6 +16,7 @@ Yaaonhel
 Aloore
 
 ## People
+"Follow me my brothers! I will lead you too an "
 
 ## Entities
 Racist human group

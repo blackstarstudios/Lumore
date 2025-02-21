@@ -3,11 +3,8 @@
 ## Introduction
 The Prime Stars are of the [Supreme Stars](/Religon/supreme-stars.md). They are the conrollers of the oververse.
 
-### Aprial, True Prophet
-The God of All
-- Prostar
-
 ## Almighty Prime Stars
+
 ### Jofiel, Archangel
 The Goddess of Light
 - Lightstar
@@ -20,9 +17,9 @@ The God of Time and Order
 The Goddess of Life
 - Lifestar
 
-### Antiking, False Prophet
-The God of None
-- Antistar
+### Aprial, True Prophet
+The God of All
+- Prostar
 
 ## Astrayed Prime Stars
 ### Marmou, The Dark Prince
@@ -36,3 +33,7 @@ The God of Chaos
 ### Grimini, Reaper
 The Goddess of Death
 - Deadstar
+
+### Antiking, False Prophet
+The God of None
+- Antistar

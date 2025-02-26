@@ -46,6 +46,15 @@ National symbol:
 National anthem:
 National heritage:
 
+Reaper Decree (RD)
+- Main Khasian city was hit by a terror attack by a villianious mercenary team
+- said group flees for asylum in main continent
+- khasu cant expend it's resources to strengthen defenses + pursue threat group
+- Nutear declares the RD
+    - Retired/Innactive soldiers can form packs/groups and sign up to hunt down threat
+    - Throughout pursuit, Khasu will not defend/claim any group captured by another nation
+    - Sucessful group is rewarded 6M lums (preferred packs of 6)
+
 ## Economy
 Head of Economy: 
 Economy: 

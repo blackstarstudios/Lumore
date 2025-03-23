@@ -4,35 +4,35 @@
 The Major Stars are of the [Prime Stars](/Religon/prime-stars.md). They are the pillars of the oververse.
 
 ## Almighty Major Stars
-### Montero, The Final Judge
+### Montero, Final Judge
 God of Law and Reason
 - Lawstar
 
-### Uran, Path of War
+### Uran, God of War
 God of War and Honor
-- Warstar
+- Ironstar
 
 ### Sage, Gemini
 God of Knowledge and Wisedom
 - Wisestar
 
-### Wolford, Nickname
+### Wolford, Grand Magicana
 God of Magic and Sorcery
 - Magistar
 
-### Asanna, Nickname
+### Asanna, Mother Hearth
 Goddess of Love and Marraige
 - Lovestar
 
-### Crozzen, Holysmith**
+### Crozzen, Holysmith
 Goddess of Craft and the Forge
-- Ironstar
+- Firestar
 
-### Yukire, Nickname
+### Yukire, Tranqoui
 God of Peace and Dreams
 - Cloudstar
 
-### Agil, Nickname
+### Agil, Grand Merchant
 God of Trade and Commerce
 - Tradestar
 
@@ -44,8 +44,8 @@ God of Luck and Fate
 Goddess of Hunting and Farming
 - Huntstar
 
-### Bingeal, The Blessed Healer
-God of Medicine and Alchemy
+### Bingeal, Blessed Healer
+Goddess of Medicine and Alchemy
 - Medstar
 
 ## Astrayed Major Stars
@@ -59,9 +59,9 @@ God of Wrath
 
 ### Zakzano, Sin of the Forbidden
 God of Forbidden Knowledge
-- Corruptstar
+- Corrustar
 
-### Verbel, Sin of Witchcraft
+### Verbel, Witch of The Damned
 Goddess of Witchcraft
 - Witchstar
 
@@ -73,52 +73,22 @@ Goddess of Lust
 God of Sloth
 - Slothstar
 
-### Inachtra, 
+### Inachtra, Night Conjurer
 Goddess of Nightmares
 - Marestar
 
-### Lahkus, 
+### Lahkus, Father Greed
 God of Greed
-- Greedstar
+- Avastar
 
-### Teher, 
+### Teher, Queen of Curses
 Goddess of Misfortune
 - Badstar
 
-### Eirnin,
+### Eirnin, Voracion
 Goddess of Gluttony
 - Vourstar
 
-### Neieba,
+### Neieba, The Envious
 God of Envy
-- Envystar
-
-
-# The Almighty Major Gods
-
-- Order and Reason, Law, & Justice - Montero
-- War, Honor, Peace - Uran
-- Sorcery and Magic - Wolford
-- Dreams - Yukire
-- Knowledge & Wisedom - Sage
-- Forge & Craftsmanship - Crozzen
-- Trade & Commerce - Agil
-- Luck - Veneti
-- Farming, Fishing & Hunting- Rachess
-- Love & Marriage - Asanna
-- Medicine and Alchemy - Bingeal
-
-
-# The Astrayed Major Gods
-
-- Pride - Krenari
-- Wrath - Gahar
-- Witchcraft - Verbel
-- Nightmares - Inachtra
-- Forbidden knowledge - Zakzano
-- Sloth - Perizay
-- Greed - Lahkus
-- Misfortune - Teher
-- Gluttony - Eirnin
-- Lust - Himhia
-- Envy - Neieba
+- Envastar

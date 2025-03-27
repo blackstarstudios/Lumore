@@ -5,8 +5,8 @@ The Supreme Stars are the origin of the oververse. Literally the beginning and t
 
 ## Almighty Supreme Star
 ### Osiri, The Beginning
-The God of Creation
-- Daystar, Newstar
+The God of Creation (Daystar, Newstar)
+- Weapon: Centauri (Axe)
 
 ## Astrayed Supreme Star
 ### Khuthulun, The End

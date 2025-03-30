@@ -95,3 +95,5 @@ Theses Hills
 ⁃ World Church
 
 ⁃ Theocracy - Church leadership
+Valkyries = Saint's Guard
+Paladins = Church Knights 

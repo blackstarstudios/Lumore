@@ -1,7 +1,7 @@
 # Glossary
 
-HP (Health points)	Individual’s health capacity	1000 HP
-MP (Magic points)	Individual’s magical capacity	500 MP
+HP = Individual’s health capacity	(Health points)	
+MP = Individual’s magical capacity (Magic points)
 SP (Stamina points)	Individual’s endurance capacity	300 SP
 Strength 	Individual’s damage output	Unleashing a powerful attack
 Defense	Individual’s damage absorption	Holding up against a strong attack

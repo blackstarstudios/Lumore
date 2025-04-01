@@ -2,15 +2,8 @@
 
 ## Introduction
 
-Sunfell
-Autian
-Feua
-Ehona Plum
-Ekryaim
 Wyntolm
 Balawyn
-Yaaonhel
-Aloore
 
 ## Northern Continent
 ### Alphi, Nickname
@@ -18,7 +11,7 @@ Climate, Landscape: Very Cold, White Alps
 Goverment: Magocracy - Mage society
 Lordmage: Rheflyn, Horus Chronus (Azureen)
 Top Guardmage: Obeah, Glaucius (Azureen) 
-Capital: 
+Capital: Autian
 Economy, Export: $$, Grimoires
 Population: Azureen, Avikin, Replikin
 Attraction(s): Magic Academy, Magical Advances, Aurora Lights
@@ -50,7 +43,7 @@ Goverment:
 Leader:
 Top Soldier:
 Capital: Monogoro
-Economy, Export:
+Economy, Export: $, 
 Population: Dark Elves
 Attraction(s):
 
@@ -59,7 +52,7 @@ Climate, Landscape: Cool, Talltrees
 Goverment:
 Leader:
 Top Soldier:
-Capital:
+Capital: Sunfell
 Economy, Export: $$, Strong tallwood lumber
 Population:
 Attraction(s): Gigantic historic trees
@@ -79,13 +72,12 @@ Climate, Landscape: Hot, Moltwrens
 Goverment: 
 Leader:
 Top Soldier:
-Capital:
-Economy, Export: , Rare earth materials
+Capital: Dragneel
+Economy, Export: $, Rare metals and earth materials
 Population:
 Attraction(s):
 
 ## Southwestern Continent
-
 ### Baterie
 Climate, Landscape: Hot, Wilds
 Goverment: Stratocracy - Chief Leadership
@@ -115,7 +107,7 @@ Goverment: Autocracy - Skill Leadership
 King: Daggril, The King Mountain (Dwarf)
 Top Knight: Wearld, The Golem Slayer (Dwarf)
 Capital: Urgerand
-Economy, Export: $$$, Rare metals 
+Economy, Export: $$$, Weapons and armor
 Population: Dwarves, Avikin
 Attraction(s): Blacksmithing and craftmanship
 
@@ -125,7 +117,7 @@ Goverment: Monarchy
 King: Eliyas, The Dueling King (Laudquin)
 Top Knight: Gualtier, The First Sword (Laudquin)
 Capital: Wyvillan
-Economy, Export: $$$, Politics
+Economy, Export: $$$, Politics and law
 Population: Laudquin, 
 Attraction(s): Cultural mixing
 
@@ -144,8 +136,8 @@ Climate, Landscape: Cool, Magiwoods
 Goverment: Gerontocracy - Elder Leadership
 Grand Elder: Ezua, Branch of Guidance (Dark Elf)
 Top Keeper: Aolis, _ of Judgment (Elf)
-Capital: 
-Economy, Export: $, Potions
+Capital: Ekryaim
+Economy, Export: $, Potions and alchemy
 Population: Elves, Faries
 Attraction(s): Mothertree
 
@@ -155,7 +147,7 @@ Goverment: Timocracy - Landowner Leadership
 Sovereign: Ettore, Mr. Proprietor (Giant)
 Top Guardsman: Hias, Death Stomp (Giant)
 Capital: Proshire
-Economy, Export: $$$, Milk and Honey
+Economy, Export: $$$, Milk and Honey + food
 Population: Giants
 Attraction(s): Foods
 
@@ -176,7 +168,7 @@ King: _, Puppet King (Carmisean)
 Underground Ruler: William Knightmond, The Marquis (Carmisean)
 Top Sailor: Aeces, Serrated Fin (Swordfish Clan)
 Capital: Sa Raiza
-Economy, Export: $$$$, 
+Economy, Export: $$$$, trade + maritime
 Population: Carmisseans, Merkin
 Attraction(s): Economic Hub, Navy
 
@@ -198,8 +190,8 @@ Climate, Landscape: Warm, Lushwoods
 Goverment:
 Leader:
 Top Soldier:
-Capital:
-Economy, Export:
+Capital: Ehona Plum
+Economy, Export: $$, 
 Population:
 Attraction(s):
 
@@ -209,11 +201,11 @@ Climate, Landscape: Cold, Peakspires
 Goverment: 
 Leader: 
 Top Soldier:
-Capital:
+Capital: Feuna
 Economy, Export:
 Population: Hunyadi, Avikin
 Attraction(s): Battle Arts
-
+ 
 ### Altin
 Climate, Landscape: Chilly, Riverwells
 Goverment: Diarchy - CoPolitical and CoMilitary Leadership
@@ -232,7 +224,7 @@ Climate, Landscape: Hot, Spritshores
 Goverment:
 Leader:
 Top Soldier:
-Capital:
+Capital: Aloore
 Economy, Export: $$$, Tourism
 Population: Carmisseans,
 Attraction(s): Resorts, History museums
@@ -242,7 +234,7 @@ Climate, Landscape: Dry, Cragliffs
 Goverment: Feudalism - Lord Leadership
 Colony Queen: Hekekri, Yethseyer (Cobra Variant) 
 Top Guard: Orthix, Armored Dragon (Pangolin Clan)
-Capital:
+Capital: Yaaonhel
 Economy, Export: $, Posions
 Population: Replikin, Insikin
 Attraction(s): Canyons, 

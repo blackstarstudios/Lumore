@@ -2,9 +2,9 @@
 
 ## Introduction
 
-__The God of Creation__
-Osiri, The Beginning: (Daystar, Newstar)
-- Weapon: Centauri (Axe)
+__God of Creation__
+: Osiri, The Beginning: (Daystar, Newstar)
+> Weapon: Centauri (Axe)
 
 ## Astrayed Supreme Star
 __Khuthulun, The End

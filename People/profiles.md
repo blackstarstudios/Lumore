@@ -2,8 +2,154 @@
 
 ## Introduction
 
-## Ferrent based NPCs
+__The God of Creation__
+Osiri, The Beginning: (Daystar, Newstar)
+- Weapon: Centauri (Axe)
 
+## Astrayed Supreme Star
+__Khuthulun, The End
+The Goddess of Destruction
+- Nightstar, Endstar
+
+__Aprial, Supreme One's Seal
+The God of All
+- Allstar
+
+__Jofiel, Archangel
+The Goddess of Light
+- Lightstar
+
+__Hermle, Father Time
+The God of Time
+- Timestar
+
+__Lynniel, Allmother
+The Goddess of Life
+- Lifestar
+
+## Astrayed Prime Stars
+__Antiking, Mark of The End
+The God of None
+- Antistar
+
+__Marmou, The Dark Prince
+The God of Darkness
+- Darkstar
+
+__Rahdreal, Chaos Incarnate
+The God of Chaos
+- Chaostar
+
+__Grimini, Reaper
+The Goddess of Death
+- Deathstar
+
+__Montero, Final Judge
+God of Law and Reason
+- Lawstar
+
+__Uran, God of War
+God of War and Honor
+- Ironstar
+
+__Sage, Gemini
+God of Knowledge and Wisedom
+- Wisestar
+
+__Wolford, Grand Magicana
+God of Magic and Sorcery
+- Magistar
+
+__Asanna, Mother Hearth
+Goddess of Love and Marraige
+- Lovestar
+
+__Crozzen, Holysmith
+Goddess of Craft and the Forge
+- Firestar
+
+__Yukire, Tranqoui
+God of Peace and Dreams
+- Cloudstar
+
+__Agil, Grand Merchant
+God of Trade and Commerce
+- Tradestar
+
+__Veneti, Saint Fortune
+God of Luck and Fate
+- Luckstar
+
+__Rachess, Goddess of the Hunt
+Goddess of Hunting and Farming
+- Huntstar
+
+__Bingeal, Blessed Healer
+Goddess of Medicine and Alchemy
+- Medstar
+
+## Astrayed Major Stars
+__Krenari, Sin of Pride
+God of Pride
+- Egostar
+
+__Gahl, Sin of Wrath
+God of Wrath
+- Wrathstar
+
+__Zakzano, Sin of the Forbidden
+God of Forbidden Knowledge
+- Corrustar
+
+__Verbel, Witch of The Damned
+Goddess of Witchcraft
+- Witchstar
+
+__Himhia, Sin of Lust
+Goddess of Lust
+- Luststar
+
+__Perizay, Sin of Sloth
+God of Sloth
+- Slothstar
+
+__Inachtra, Night Conjurer
+Goddess of Nightmares
+- Marestar
+
+__Lahkus, Father Greed
+God of Greed
+- Avastar
+
+__Teher, Queen of Curses
+Goddess of Misfortune
+- Badstar
+
+__Eirnin, Voracion
+Goddess of Gluttony
+- Vourstar
+
+__Neieba, The Envious
+God of Envy
+- Envastar
+
+## Malevent, King of Malice
+God of Malice
+- Malistar
+
+## Blood God, Ruler of Blood
+God of Blood and Slaughter
+- Bloodstar
+
+## Beast God, God of Beasts
+God of Beasts
+- Beaststar
+
+## Aran, Son of Gahl
+God of Battle
+- Brawlstar
+
+## Ferrent based NPC
 __Ferrent’s King__
 : Eliyas, Dueling King (Laudquin)
 > King of Ferrent that is famous for his earlier life as a renowned duelist (Inspired by)
